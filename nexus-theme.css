@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@600;700&display=swap");
+
+:root {
+  --body-background-color: #0A0D12;
+  --body-text-color: #E9EDF3;
+  --card-background-color: #0D1219;
+  --nav-background-color: #0D1219;
+  --nav-border-bottom-color: #1F2937;
+  --nav-current-border-bottom-color: #45C6E8;
+  --card-border-color: #1F2937;
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #6b1020;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+  --tag-color: #0A0D12;
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #f7b731;
+  --error-button-border-color: #45C6E8;
+  --error-button-background-color: #45C6E8;
+  --error-button-color: #0A0D12;
+  --submit-button-border-color: #45C6E8;
+  --submit-button-background-color: #45C6E8;
+  --submit-button-color: #0A0D12;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+body { font-family: Inter, sans-serif; }
+h1, h2, h3, h4 { font-family: Manrope, Inter, sans-serif; }
