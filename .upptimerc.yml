@@ -14,3 +14,11 @@ status-website:
   baseUrl: /nexus-status
   name: Nexus Status
   introTitle: Nexus service status
+  logoUrl: https://gt-nexus.github.io/nexus-status/icon-brand.svg
+  logoHref: https://portal.nexus.gatech.edu
+  favicon: https://gt-nexus.github.io/nexus-status/icon-brand.svg
+  faviconSvg: https://gt-nexus.github.io/nexus-status/icon-brand.svg
+  themeUrl: https://gt-nexus.github.io/nexus-status/nexus-theme.css
+  navbar:
+    - title: Nexus Portal
+      href: https://portal.nexus.gatech.edu
