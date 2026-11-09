@@ -4,6 +4,11 @@ repo: nexus-status
 sites:
   - name: Nexus Portal
     url: https://portal.nexus.gatech.edu
+    assignees:
+      - lahirujayathilake
+      - yasithdev
+      - eroma2014
+      - DImuthuUpe
 
 status-website:
   baseUrl: /nexus-status
